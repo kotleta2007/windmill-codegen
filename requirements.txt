@@ -6,3 +6,4 @@ inquirer
 python-dotenv
 prompt_toolkit==1.0.14
 tavily-python
+pandas
