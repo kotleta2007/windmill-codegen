@@ -1,0 +1,44 @@
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New Spreadsheet Row (Team Drive)", "p": "Triggered when a new row is added to the bottom of a spreadsheet - works best with Team Drives."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New Spreadsheet", "p": "Triggered when you create a new spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New or Updated Spreadsheet Row", "p": "Triggered when a new row is added or modified in a spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Create Spreadsheet Column", "p": "Create a new column in a specific spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Create Multiple Spreadsheet Rows", "p": "Create one or more new rows in a specific spreadsheet (with line item support)."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Create Spreadsheet", "p": "Create a blank spreadsheet or duplicate an existing spreadsheet. Optionally, provide headers."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Delete Spreadsheet Row", "p": "Deletes the content of a row in a specific spreadsheet. Deleted rows will appear as blank rows in your spreadsheet. Please use with caution."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Update Spreadsheet Row", "p": "Update a row in a specific spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "API Request (Beta)", "p": "This is an advanced action which makes a raw HTTP request that includes this integration's authentication."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Find Worksheet", "p": "Finds a worksheet by title."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Lookup Spreadsheet Row", "p": "Finds a row by a column and value. Returns the entire row if one is found."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Find or Create Row", "p": "Finds or creates a specific lookup row."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New Spreadsheet Row", "p": "Triggered when a new row is added to the bottom of a spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New or Updated Spreadsheet Row (Team Drive)", "p": "Triggered when a new row is added or modified in a spreadsheet - works best with Team Drives."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "New Worksheet", "p": "Triggered when you create a new worksheet in a spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Create Spreadsheet Row", "p": "Create a new row in a specific spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Copy Worksheet", "p": "Create a new worksheet by copying an existing worksheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Create Worksheet", "p": "Create a blank worksheet with a title. Optionally, provide headers."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Format Spreadsheet Row", "p": "Format a row in a specific spreadsheet."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Update Spreadsheet Row(s)", "p": "Update one or more new rows in a specific spreadsheet (with line item support)."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Lookup Spreadsheet Rows (output as Line Items)", "p": "Finds many matched rows (500 max.) by a column and value."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Get Many Spreadsheet Rows (Advanced, output as Line Items)", "p": "Returns many rows (500 max.) as a single JSON value and flat rows (line items)."}
+{"link": "https://zapier.com/apps/google-sheets/integrations", "name": "Google Sheets", "h2": "Find or Create Worksheet", "p": "Finds or creates a specific find worksheet."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Attachment", "p": "Triggers when you receive a new attachment (triggers once per attachment)."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Labeled Email", "p": "Triggers when you label an email."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Email Matching Search", "p": "Triggers when you receive a new email that matches a search string you provide."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Thread", "p": "Triggers when a new thread starts."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Create Draft", "p": "Create (but do not send) a new email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Create Label", "p": "Creates a new label."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Remove Label from Email", "p": "Remove a label from an email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Find Email", "p": "Finds an email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Label", "p": "Triggers when you add a new label."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Label", "p": "Triggers when you add a new label."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Email", "p": "Triggers when a new e-mail appears in the specified mailbox."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Starred Email", "p": "Triggers when you receive a new email and star it within two days."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "New Starred Email", "p": "Triggers when you receive a new email and star it within two days."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Add Label to Email", "p": "Add a label to an email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Create Draft Reply", "p": "Create (but do not send) a draft of a reply to an existing email."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Send Email", "p": "Create and send a new email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Reply to Email", "p": "Send a reply to an email message."}
+{"link": "https://zapier.com/apps/gmail/integrations", "name": "Gmail", "h2": "Find or Send Email", "p": "Finds or creates a specific message."}
+{"link": "https://zapier.com/apps/filter/integrations", "name": "Filter by Zapier", "h2": "Only continue if...", "p": "Set up rules to specify when this Zap can continue running."}
+{"link": "https://zapier.com/apps/formatter/integrations", "name": "Formatter by Zapier", "h2": "Date / Time", "p": "Work with dates and times to change formatting or add/subtract time (with line-item support)."}
+{"link": "https://zapier.com/apps/formatter/integrations", "name": "Formatter by Zapier", "h2": "Text", "p": "Work with text data to find &amp; replace, capitalize, remove HTML, and more (with line-item support)."}
