@@ -9,9 +9,15 @@ client = TavilyClient(api_key=TAVILY_API_KEY)
 def search(service):
     query_prompt = f'''
     Can I access the {service} API through their OpenAPI specification?
-    If it does exist, your answer should provide only the link to the OpenAPI specification.
-    If it does not, return `OpenAPI specification not found.` instead of the link.
+    Return the link to the OpenAPI specification.
+    Just return the link in the answer.
+    Make sure the link references an OpenAPI specification.
     '''
+    # query_prompt = f'''
+    # Can I access the {service} API through their OpenAPI specification?
+    # If it exists, your answer should provide only the link to the OpenAPI specification.
+    # If it does not, return `OpenAPI specification not found.` instead of the link.
+    # '''
     response = client.search(query=query_prompt, include_answer=True)
     assert response is not None
     return response['answer']
