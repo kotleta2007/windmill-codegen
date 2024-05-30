@@ -19,7 +19,14 @@ Generating code for Windmill integrations
  pip install -r requirements.txt
 ```
 
-4. Run the CLI
+4. Get the necessary credentials, put them in `.env`
+
+```bash
+echo GROQ_API_KEY=YOUR_KEY_HERE > .env
+echo TAVILY_API_KEY=YOUR_KEY_HERE >> .env
+```
+
+5. Run the CLI
 ```bash
  python codegen.py
 ```
